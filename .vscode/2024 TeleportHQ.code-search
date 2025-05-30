@@ -1,0 +1,30 @@
+# Query: 2024 TeleportHQ
+# ContextLines: 1
+
+6 results - 6 files
+
+360wiam\build\static\js\main.c83fbd83.js:
+  1  /*! For license information please see main.c83fbd83.js.LICENSE.txt */
+  2: ⟪ 243502 characters skipped ⟫e:"thq-divider-horizontal"}),(0,xt.jsxs)("div",{className:"footer4-row",children:[(0,xt.jsx)("div",{className:"footer4-container",children:(0,xt.jsx)("span",{className:"thq-body-small",children:"\xa9 2024 TeleportHQ"})}),(0,xt.jsxs)("div",{className:"footer4-footer-links",children:[(0,xt.jsx)("span",{className:"footer4-text11 thq-body-small",children:null!==(s=t.privacyLink)&&void 0!==s?s:(0,xt.jsx)(e.Fragment,{children:(0,xt.jsx)("span",{className:"footer4-text16",children:"Privacy Policy"})})}),(0,xt.jsx)("span",{className:"thq-body-small",children:null!==(o=t.termsLink)&&void 0!==o?o:(0,xt.jsx)(e.Fragment,{children:(0,xt.jsx)("span",{className:"footer4-text20",children:"Terms of Use"})})}),(0,xt.jsx)("span",{className:"thq-body-small",children:null!==(c=t.cookiesLink)&&void 0!==c?c:(0,xt.jsx)(e.Fragment,{children:(0,xt.jsx)("span",{className:"footer4-text17",children:"Cookies Policy"})})})]})]})]})]})})};zt.defaultProps={link2:void 0,link5:void 0,privacyLink:void 0,cookiesLink:void 0,link4:void 0,logoSrc:"https://presentation-website-assets.teleporthq.io/logos/logo.png",logoAlt:"360WIAM Logo",link1:void 0,termsLink:void 0,link3:void 0};const Lt=zt,Ut=t=>(0,xt.jsxs)("div",{classN
+  3  //# sourceMappingURL=main.c83fbd83.js.map
+
+360wiam\build\static\js\main.c83fbd83.js.map:
+  1: ⟪ 683588 characters skipped ⟫     <div className=\"thq-divider-horizontal\"></div>\n          <div className=\"footer4-row\">\n            <div className=\"footer4-container\">\n              <span className=\"thq-body-small\">© 2024 TeleportHQ</span>\n            </div>\n            <div className=\"footer4-footer-links\">\n              <span className=\"footer4-text11 thq-body-small\">\n                {props.privacyLink ?? (\n                  <Fragment>\n                    <span className=\"footer4-text16\">Privacy Policy</span>\n                  </Fragment>\n                )}\n              </span>\n              <span className=\"thq-body-small\">\n                {props.termsLink ?? (\n                  <Fragment>\n                    <span className=\"footer4-text20\">Terms of Use</span>\n                  </Fragment>\n                )}\n              </span>\n              <span className=\"thq-body-small\">\n                {props.cookiesLink ?? (\n                  <Fragment>\n                    <span className=\"footer4-text17\">Cookies Policy</span>\n                  </Fragment>\n                )}\n              </span>\n            </div>\n          </div>\n        </div>\n      </div>\n 
+
+360wiam\src\components\footer4.js:
+  85              <div className="footer4-container">
+  86:               <span className="thq-body-small">© 2024 TeleportHQ</span>
+  87              </div>
+
+build\static\js\main.c83fbd83.js:
+  1  /*! For license information please see main.c83fbd83.js.LICENSE.txt */
+  2: ⟪ 243502 characters skipped ⟫e:"thq-divider-horizontal"}),(0,xt.jsxs)("div",{className:"footer4-row",children:[(0,xt.jsx)("div",{className:"footer4-container",children:(0,xt.jsx)("span",{className:"thq-body-small",children:"\xa9 2024 TeleportHQ"})}),(0,xt.jsxs)("div",{className:"footer4-footer-links",children:[(0,xt.jsx)("span",{className:"footer4-text11 thq-body-small",children:null!==(s=t.privacyLink)&&void 0!==s?s:(0,xt.jsx)(e.Fragment,{children:(0,xt.jsx)("span",{className:"footer4-text16",children:"Privacy Policy"})})}),(0,xt.jsx)("span",{className:"thq-body-small",children:null!==(o=t.termsLink)&&void 0!==o?o:(0,xt.jsx)(e.Fragment,{children:(0,xt.jsx)("span",{className:"footer4-text20",children:"Terms of Use"})})}),(0,xt.jsx)("span",{className:"thq-body-small",children:null!==(c=t.cookiesLink)&&void 0!==c?c:(0,xt.jsx)(e.Fragment,{children:(0,xt.jsx)("span",{className:"footer4-text17",children:"Cookies Policy"})})})]})]})]})]})})};zt.defaultProps={link2:void 0,link5:void 0,privacyLink:void 0,cookiesLink:void 0,link4:void 0,logoSrc:"https://presentation-website-assets.teleporthq.io/logos/logo.png",logoAlt:"360WIAM Logo",link1:void 0,termsLink:void 0,link3:void 0};const Lt=zt,Ut=t=>(0,xt.jsxs)("div",{classN
+  3  //# sourceMappingURL=main.c83fbd83.js.map
+
+build\static\js\main.c83fbd83.js.map:
+  1: ⟪ 683588 characters skipped ⟫     <div className=\"thq-divider-horizontal\"></div>\n          <div className=\"footer4-row\">\n            <div className=\"footer4-container\">\n              <span className=\"thq-body-small\">© 2024 TeleportHQ</span>\n            </div>\n            <div className=\"footer4-footer-links\">\n              <span className=\"footer4-text11 thq-body-small\">\n                {props.privacyLink ?? (\n                  <Fragment>\n                    <span className=\"footer4-text16\">Privacy Policy</span>\n                  </Fragment>\n                )}\n              </span>\n              <span className=\"thq-body-small\">\n                {props.termsLink ?? (\n                  <Fragment>\n                    <span className=\"footer4-text20\">Terms of Use</span>\n                  </Fragment>\n                )}\n              </span>\n              <span className=\"thq-body-small\">\n                {props.cookiesLink ?? (\n                  <Fragment>\n                    <span className=\"footer4-text17\">Cookies Policy</span>\n                  </Fragment>\n                )}\n              </span>\n            </div>\n          </div>\n        </div>\n      </div>\n 
+
+src\components\footer4.js:
+  85              <div className="footer4-container">
+  86:               <span className="thq-body-small">© 2024 TeleportHQ</span>
+  87              </div>

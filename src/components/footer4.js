@@ -9,11 +9,11 @@ const Footer4 = (props) => {
     <footer className="footer4-footer7 thq-section-padding">
       <div className="footer4-max-width thq-section-max-width">
         <div className="footer4-content">
-          <div className="footer4-logo1">
+          <div className="footer4-ll1">
             <img
-              alt={props.logoAlt}
-              src={props.logoSrc}
-              className="footer4-logo2"
+              alt={props.llAlt}
+              src={props.llSrc}
+              className="footer4-ll2"
             />
           </div>
           <div className="footer4-links">
@@ -83,7 +83,7 @@ const Footer4 = (props) => {
           <div className="thq-divider-horizontal"></div>
           <div className="footer4-row">
             <div className="footer4-container">
-              <span className="thq-body-small">© 2024 TeleportHQ</span>
+              <span className="thq-body-small">© 360wiam</span>
             </div>
             <div className="footer4-footer-links">
               <span className="footer4-text11 thq-body-small">
@@ -121,8 +121,8 @@ Footer4.defaultProps = {
   privacyLink: undefined,
   cookiesLink: undefined,
   link4: undefined,
-  logoSrc: 'https://presentation-website-assets.teleporthq.io/logos/logo.png',
-  logoAlt: '360WIAM Logo',
+  llSrc: 'https://presentation-website-assets.teleporthq.io/lls/ll.png',
+  llAlt: '360WIAM ll',
   link1: undefined,
   termsLink: undefined,
   link3: undefined,
@@ -134,8 +134,8 @@ Footer4.propTypes = {
   privacyLink: PropTypes.element,
   cookiesLink: PropTypes.element,
   link4: PropTypes.element,
-  logoSrc: PropTypes.string,
-  logoAlt: PropTypes.string,
+  llSrc: PropTypes.string,
+  llAlt: PropTypes.string,
   link1: PropTypes.element,
   termsLink: PropTypes.element,
   link3: PropTypes.element,

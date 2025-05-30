@@ -24,7 +24,7 @@
   flex-direction: column;
 }
  
-.footer4-logo1 {
+.footer4-ll1 {
   gap: 24px;
   display: flex;
   overflow: hidden;
@@ -32,7 +32,7 @@
   flex-direction: column;
 }
  
-.footer4-logo2 {
+.footer4-ll2 {
   height: 2rem;
 }
  

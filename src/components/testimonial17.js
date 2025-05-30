@@ -47,7 +47,7 @@ const Testimonial17 = (props) => {
                     <strong className="thq-body-large">
                       {props.author1Name ?? (
                         <Fragment>
-                          <span className="testimonial17-text34">John Doe</span>
+                          <span className="testimonial17-text34">Shradha</span>
                         </Fragment>
                       )}
                     </strong>
@@ -93,7 +93,7 @@ const Testimonial17 = (props) => {
                       {props.author2Name ?? (
                         <Fragment>
                           <span className="testimonial17-text31">
-                            Jane Smith
+                            Sumani
                           </span>
                         </Fragment>
                       )}
@@ -140,7 +140,7 @@ const Testimonial17 = (props) => {
                       {props.author3Name ?? (
                         <Fragment>
                           <span className="testimonial17-text30">
-                            Michael Johnson
+                            Kailash
                           </span>
                         </Fragment>
                       )}
@@ -187,7 +187,7 @@ const Testimonial17 = (props) => {
                       {props.author4Name ?? (
                         <Fragment>
                           <span className="testimonial17-text36">
-                            Sarah Williams
+                            NagaSharan
                           </span>
                         </Fragment>
                       )}
@@ -225,7 +225,7 @@ const Testimonial17 = (props) => {
 
 Testimonial17.defaultProps = {
   review4: undefined,
-  author3Alt: 'Image of Michael Johnson',
+  author3Alt: 'Image of Kailash',
   review3: undefined,
   author1Position: undefined,
   author3Src:
@@ -235,8 +235,8 @@ Testimonial17.defaultProps = {
   author3Position: undefined,
   author1Src:
     'https://images.unsplash.com/photo-1580489944761-15a19d654956?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTc0ODU2NTQ2N3w&ixlib=rb-4.1.0&q=80&w=1080',
-  author2Alt: 'Image of Jane Smith',
-  author4Alt: 'Image of Sarah Williams',
+  author2Alt: 'Image of Sumani',
+  author4Alt: 'Image of NagaSharan',
   author3Name: undefined,
   author2Name: undefined,
   author4Src:
@@ -244,7 +244,7 @@ Testimonial17.defaultProps = {
   author2Position: undefined,
   author4Position: undefined,
   author1Name: undefined,
-  author1Alt: 'Image of John Doe',
+  author1Alt: 'Image of Shradha',
   content1: undefined,
   author4Name: undefined,
   review1: undefined,

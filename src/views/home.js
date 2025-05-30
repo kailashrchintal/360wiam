@@ -614,22 +614,22 @@ const Home = (props) => {
         }
         author1Name={
           <Fragment>
-            <span className="home-text198">John Doe</span>
+            <span className="home-text198">Shradha</span>
           </Fragment>
         }
         author2Name={
           <Fragment>
-            <span className="home-text199">Jane Smith</span>
+            <span className="home-text199">Sumani</span>
           </Fragment>
         }
         author3Name={
           <Fragment>
-            <span className="home-text200">Michael Johnson</span>
+            <span className="home-text200">Kailash</span>
           </Fragment>
         }
         author4Name={
           <Fragment>
-            <span className="home-text201">Sarah Williams</span>
+            <span className="home-text201">NagaSharan</span>
           </Fragment>
         }
         author1Position={
