@@ -121,7 +121,7 @@ Footer4.defaultProps = {
   privacyLink: undefined,
   cookiesLink: undefined,
   link4: undefined,
-  llSrc: 'https://presentation-website-assets.teleporthq.io/lls/ll.png',
+  llSrc: 'https://presentation-website-assets.360wiam/lls/ll.png',
   llAlt: '360WIAM ll',
   link1: undefined,
   termsLink: undefined,

@@ -241,7 +241,7 @@ Hero17.defaultProps = {
   image4Src:
     'https://images.unsplash.com/photo-1531413496675-fb7f363c2c45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTc0ODU2NTQ3MHw&ixlib=rb-4.1.0&q=80&w=1080',
   image9Alt: 'Hero Image',
-  image12Src: 'https://play.teleporthq.io/static/svg/default-img.svg',
+  image12Src: 'https://play.360wiam/static/svg/default-img.svg',
   image6Src:
     'https://images.unsplash.com/photo-1735547928495-262fc71a4677?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTc0ODU2NTQ2OHw&ixlib=rb-4.1.0&q=80&w=1080',
   image4Alt: 'Hero Image',
@@ -256,7 +256,7 @@ Hero17.defaultProps = {
   image7Src:
     'https://images.unsplash.com/photo-1566594918188-070aa98529d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTc0ODU2NTQ2OHw&ixlib=rb-4.1.0&q=80&w=1080',
   image7Alt: 'Hero Image',
-  image1Src: 'https://play.teleporthq.io/static/svg/default-img.svg',
+  image1Src: 'https://play.360wiam/static/svg/default-img.svg',
   action1: undefined,
   image3Src:
     'https://images.unsplash.com/photo-1612066473428-fb6833a0d855?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTc0ODU2NTQ2N3w&ixlib=rb-4.1.0&q=80&w=1080',
